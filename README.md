@@ -1,0 +1,2 @@
+# 基于2D Unet的旷场行为学评分系统
+模型训练部分都在python部分，评分函数与批处理流程放在jupyter notebook部分
